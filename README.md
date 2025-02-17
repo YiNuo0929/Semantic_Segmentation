@@ -9,5 +9,5 @@ Train : 4500 RGB images & masks
 Test : 500 images
 
 Class num : 13 (included unlabeled)
-![Example]([https://github.com/your-repo/images/logo.png](https://github.com/YiNuo0929/Semantic_Segmentation/blob/main/segmentation.png))
+![Example](https://github.com/YiNuo0929/Semantic_Segmentation/blob/main/segmentation.png)
 
