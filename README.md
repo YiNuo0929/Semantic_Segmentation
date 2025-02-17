@@ -11,3 +11,10 @@ Test : 500 images
 Class num : 13 (included unlabeled)
 ![Example](https://github.com/YiNuo0929/Semantic_Segmentation/blob/main/segmentation.png)
 
+# report 大綱
+1. Model Architecture
+2. Problems and Solutions 
+3. Methods to improve accuracy
+4. Analysis of Results
+
+
